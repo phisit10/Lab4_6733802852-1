@@ -1,4 +1,4 @@
-# 🌱 Lab03 — Spring Boot REST API
+# 🌱 Lab04 — Spring Boot REST API
 
 ---
 
