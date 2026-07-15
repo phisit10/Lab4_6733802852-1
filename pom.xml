@@ -23,8 +23,8 @@
   <groupId>com.example</groupId>
   <artifactId>myapp-673380285-2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>myapp-673380285-2</name>
-  <description>Lab04 Spring Boot REST API — CP353002</description>
+  <name>673380285-2</name>
+  <description>Lab03 Spring Boot REST API — CP353002</description>
   <packaging>jar</packaging>
 
   <properties>
